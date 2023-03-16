@@ -2,4 +2,4 @@
 
 # FLAVIO - UCSP
 
-# ciencias de la computacion
+# ciencias de la computacion, apruebo con 17 y con fé
